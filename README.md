@@ -19,5 +19,4 @@ Resolver un problema de clasificación multinomial en un periodo de 14 horas.
 
 * Jupyter notebook
 * Python
-* PostGres, MySql
 * Pandas, scikit-Learn, pyplot, entre otras
